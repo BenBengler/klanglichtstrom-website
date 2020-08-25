@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return c}));var u=e("q1tI"),a=e.n(u);function c(){return a.a.createElement("div",null,"klang licht strom. coming soon. ",a.a.createElement("br",null),"bussi und baba.")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-83ec42c090c95f37e1e3.js.map
