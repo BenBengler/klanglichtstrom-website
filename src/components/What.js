@@ -6,11 +6,11 @@ export default () => {
     <Section>
       {/* <h2>What</h2> */}
       <p>
-        “Klang-/Licht STROM” is a collaborative performance project of{" "}
+        “Klang-/Licht STROM” is a collaborative project of{" "}
         <a href="http://www.benbengler.com/" target="_blank" rel="noreferrer">
           Ben Bengler
         </a>{" "}
-        (music, live electronics) and Thomas Geissl (light, programming). It’s
+        (music, live electronics) and Thomas Geissl (light, programming), performing together as Bengler/Geissl since 2018. It’s
         driven by their shared vision for creating performances where the audience
         is in the centre of things, with sound and light unfolding around them.
       </p>
